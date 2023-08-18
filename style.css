@@ -1,0 +1,253 @@
+.food-much-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.food-much-heading1 {
+    color: white;
+}
+
+.food-much-paragraph1 {
+    color: white;
+    font-size: 30px;
+    font-family: roboto;
+}
+
+.food-much-logo-image {
+    height: 90px;
+}
+
+.food-much-button1 {
+    height: 45px;
+    border-radius: 10px;
+    border-width: 0px;
+    width: 120px;
+    background-color: #d0b200;
+    color: white;
+}
+
+.food-much-button2 {
+    height: 45px;
+    border-radius: 10px;
+
+    width: 120px;
+    background-color: transparent;
+    color: white;
+    border-style: solid;
+    border-color: #d0b200;
+}
+
+#nav1 {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-family: bree serif;
+
+}
+
+#nav2 {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-family: bree serif;
+
+}
+
+#nav3 {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-family: bree serif;
+
+}
+
+#nav4 {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-family: bree serif;
+
+}
+
+.wcu-container {
+    background-color: #f9fbfe;
+}
+
+.wch-heading {
+    font-weight: bold;
+    font-family: roboto;
+}
+
+.wch-paragraph {
+    color: #5a7184;
+    font-family: roboto;
+
+}
+
+.wcu-firstone {
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #5a7184;
+}
+
+.wcu-heading2 {
+    font-family: roboto;
+}
+
+.span-colo {
+    font-weight: bold;
+    color: black;
+}
+
+.explore-menu {
+    background-color: white;
+}
+
+.explore-heading {
+    font-family: roboto;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.explore-image {
+    border-radius: 10px;
+}
+
+.explore-heading2 {
+    font-family: roboto;
+    margin-top: 24px;
+}
+
+.links {
+    color: #d0b200;
+    font-family: roboto;
+    font-weight: 500;
+}
+
+.background-main {
+    border-radius: 10px;
+
+}
+
+.food-page {
+    text-align: center;
+}
+
+.helthyfood-page {
+    background-color: white;
+}
+
+.healthy-heading {
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.healthy-paragraph {
+    color: #183b56;
+
+}
+
+.healthy-button {
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    border-width: 0px;
+    color: white;
+    background-color: #d0b200;
+}
+
+.hai {
+    width: 270px;
+}
+
+.paymentpage {
+    background-color: white;
+}
+
+.payment-image {
+    height: 170px;
+}
+
+.heading3 {
+    font-weight: bold;
+}
+
+.button1 {
+    height: 40px;
+    width: 120px;
+    color: white;
+    background-color: #d0b200;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.pay-img {
+    height: 80px;
+}
+
+
+}
+
+.syam {
+    text-align: center;
+}
+
+.gift {
+    background-image: radial-gradient(white, red);
+    height: 87vh;
+
+}
+
+.heading-gift {
+    font-weight: bold;
+}
+
+.solo {
+    height: 250px;
+}
+
+.button-trick {
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    color: white;
+    background-image: radial-gradient(red, white);
+    border-width: 0px;
+    margin-top: 15px;
+}
+
+.headingfollous {
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.sai {
+    font-size: 35px;
+    color: gold;
+}
+
+.twitter {
+    background-color: blue;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 18px;
+}
+
+.m {
+    text-align: center;
+
+}
+
+.voucher {
+    color: #d0b200;
+    font-weight: bold;
+}
